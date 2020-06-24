@@ -17,7 +17,7 @@ const App = () => {
 
         <Switch>
         <Route path = "/Civilizaciones/:id">
-            <Civilizacion></Civilizacion>
+            <Civilizacion />
         </Route>
 
         <Route path = "/Acerca De Nosotros">
